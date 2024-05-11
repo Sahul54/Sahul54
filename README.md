@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Sahul Kumar</h1>
     <h3 align="center">A passionate frontend developer from India</h3>
-    <img align = "righ" width="300px" src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk" alt="">
+    <img align = "right" width="300px" src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk" alt="">
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahul54&label=Profile%20views&color=0e75b6&style=flat" alt="sahul54" /> </p>
 
